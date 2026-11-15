@@ -1,0 +1,8 @@
+{
+  "name": "밀레김포모아점 인스타 마케팅 스튜디오",
+  "description": "밀레김포모아점 아웃도어 의류·등산화·등산장비 매장 사진을 인스타그램 홍보 이미지로 보정하고 품목별 맞춤 홍보 문구와 해시태그를 생성하는 스튜디오 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
